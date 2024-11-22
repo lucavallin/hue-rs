@@ -1,6 +1,6 @@
 [package]
 name = "hue-rs"
-version = "2.0.0"
+version = "2.0.1"
 authors = ["Luca Cavallin (https://github.com/lucavallin)"]
 description = "A Rust Client for Philips Hue API."
 license = "MIT"
