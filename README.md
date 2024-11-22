@@ -2,14 +2,6 @@
 
 This API client (for version v2) was originaly generated from [openhue.io](https://www.openhue.io) with the [OpenAPI Generator](https://openapi-generator.tech) project.
 
-## Installation
-
-Put the package under your project folder in a directory named `hue-rs` and add the following to `Cargo.toml` under `[dependencies]`:
-
-```toml
-hue-rs = { path = "./hue-rs" }
-```
-
 ## Documentation for API Endpoints
 
 All URIs are relative to *<https://192.168.1.0>*
