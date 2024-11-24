@@ -1,11 +1,11 @@
 [package]
-name = "hue-rs"
-version = "2.0.1"
+name = "huepi"
+version = "2.0.0"
 authors = ["Luca Cavallin (https://github.com/lucavallin)"]
-description = "A Rust Client for Philips Hue API."
+description = "Rust bindings for the Philips Hue API."
 license = "MIT"
 edition = "2021"
-repository = "https://github.com/lucavallin/hue-rs"
+repository = "https://github.com/lucavallin/huepi"
 homepage = "https://lucavall.in/"
 
 [dependencies]

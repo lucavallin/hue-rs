@@ -1,10 +1,8 @@
-# A Rust Client for the Philips Hue API
+# Rust bindings for the Philips Hue API
 
-This API client (for version v2) was originaly generated from [openhue.io](https://www.openhue.io) with the [OpenAPI Generator](https://openapi-generator.tech) project.
+This API client, for the Philips Hue API v2, was originaly generated from [openhue.io](https://www.openhue.io) with the [OpenAPI Generator](https://openapi-generator.tech) project.
 
 ## Documentation for API Endpoints
-
-All URIs are relative to *<https://192.168.1.0>*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
